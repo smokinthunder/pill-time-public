@@ -6,10 +6,10 @@
 [![Download for Android](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/pill-time-public/releases)
 
 <p align="center">
-  <img src="LINK_TO_DASHBOARD_IMAGE" width="22%" />
-  <img src="LINK_TO_CHAT_IMAGE" width="22%" />
-  <img src="LINK_TO_ADD_IMAGE" width="22%" />
-  <img src="LINK_TO_HISTORY_IMAGE" width="22%" />
+  <img src="https://github.com/user-attachments/assets/e674d7d0-cc92-4334-aa07-3512c1302905" width="22%" />
+  <img src="https://github.com/user-attachments/assets/29c8d9f5-17d0-417d-b934-fd14979c57da" width="22%" />
+  <img src="https://github.com/user-attachments/assets/51c4fe30-abc1-4889-88fe-33dcc04fc959" width="22%" />
+  <img src="https://github.com/user-attachments/assets/e2135735-e663-4d05-bc00-9947f56a9371" width="22%" />
 </p>
 
 </div>
