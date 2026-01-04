@@ -3,7 +3,7 @@
 # Pill Time 💊
 **The private, offline-first medication tracker.**
 
-[![Download for Android](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/YOUR_USERNAME/pill-time-public/releases)
+[![Download for Android](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/smokinthunder/pill-time-public/releases)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e674d7d0-cc92-4334-aa07-3512c1302905" width="22%" />
